@@ -1,4 +1,6 @@
-"""The implementation of LADUI framework using keras API  """
+"""The implementation of LADUI(LSTM based Anomaly Detection for Unsupervised learning using Inter-metric and trend correlation embedding)
+     implemented using keras API 
+    Author- Mithun Mohankumar for Masters  thesis - LJMU"""
 
 import tensorflow as tf
 import tensorflow_probability as tfp
